@@ -24,9 +24,11 @@ for_keywordlist = keyword.kwlist
 user_row = str(input())
 #перевірка першого символу на число
 begin_digit = user_row[0].isdigit()
-#перевірка чи всі символи в нижньому регістрі
-lower_case = user_row.islower()
-
+#перевірка чи всі символи в нижньому регістрі та обробка випадку з одним "_"
+if len(user_row) == 1 and user_row.find("_") == 0:
+    lower_case = True
+else:
+    lower_case = user_row.islower()
 #задаємо змінні для наступних перевірок
 is_punctuation = False
 lower_space = 0
