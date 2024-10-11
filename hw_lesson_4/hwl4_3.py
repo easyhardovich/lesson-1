@@ -14,5 +14,5 @@ secondlist = []
 secondlist.append(firstlist[0])
 secondlist.append(firstlist[2])
 secondlist.append(firstlist[-2])
-print(firstlist)
+print(firstlist, end = " == ")
 print(secondlist)
