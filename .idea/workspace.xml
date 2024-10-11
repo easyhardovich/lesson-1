@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1478c87f-14d0-488e-8b52-d7dbc077f1ad" name="Changes" comment="add text" />
+    <list default="true" id="1478c87f-14d0-488e-8b52-d7dbc077f1ad" name="Changes" comment="doing home work for lesson 5.1">
+      <change afterPath="$PROJECT_DIR$/lesson2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first.py" beforeDir="false" afterPath="$PROJECT_DIR$/first.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_lesson_4/hwl4_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw_lesson_4/hwl4_1.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,11 +25,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;easyhardovich&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/easyhardovich/lesson-1.git&quot;,
+    &quot;accountId&quot;: &quot;9f9ff2c5-9a3d-4e20-a8bc-7c2243217366&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2mZRb1a68S1D2uCMDcn2X5UzW1Y" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,6 +51,19 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.first.executor": "Run",
+    "Python.hwl2_1.executor": "Run",
+    "Python.hwl2_2.executor": "Run",
+    "Python.hwl3_1.executor": "Run",
+    "Python.hwl3_2.executor": "Run",
+    "Python.hwl3_3.executor": "Run",
+    "Python.hwl4_1.executor": "Debug",
+    "Python.hwl4_2.executor": "Run",
+    "Python.hwl4_3.executor": "Run",
+    "Python.hwl5_1.executor": "Run",
+    "Python.hwl5_2.executor": "Run",
+    "Python.hwl5_3.executor": "Run",
+    "Python.lesson2.executor": "Run",
+    "Python.lesson_1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -92,7 +124,95 @@
       <option name="project" value="LOCAL" />
       <updated>1727288103591</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add text">
+      <option name="closed" value="true" />
+      <created>1727288257494</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1727288257494</updated>
+    </task>
+    <task id="LOCAL-00007" summary="doing home work for lesson 2">
+      <option name="closed" value="true" />
+      <created>1727632521654</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1727632521654</updated>
+    </task>
+    <task id="LOCAL-00008" summary="doing home work for lesson 2">
+      <option name="closed" value="true" />
+      <created>1728129438892</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1728129438892</updated>
+    </task>
+    <task id="LOCAL-00009" summary="doing home work for lesson 3.2">
+      <option name="closed" value="true" />
+      <created>1728131970105</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1728131970105</updated>
+    </task>
+    <task id="LOCAL-00010" summary="doing home work for lesson 3.3">
+      <option name="closed" value="true" />
+      <created>1728136211334</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1728136211334</updated>
+    </task>
+    <task id="LOCAL-00011" summary="doing home work for lesson 4.1">
+      <option name="closed" value="true" />
+      <created>1728659867432</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1728659867432</updated>
+    </task>
+    <task id="LOCAL-00012" summary="doing home work for lesson 4.3">
+      <option name="closed" value="true" />
+      <created>1728669200623</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1728669200623</updated>
+    </task>
+    <task id="LOCAL-00013" summary="doing home work for lesson 4.3">
+      <option name="closed" value="true" />
+      <created>1728669353861</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1728669353861</updated>
+    </task>
+    <task id="LOCAL-00014" summary="doing home work for lesson 5.2">
+      <option name="closed" value="true" />
+      <created>1728671690639</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1728671690639</updated>
+    </task>
+    <task id="LOCAL-00015" summary="doing home work for lesson 5.1">
+      <option name="closed" value="true" />
+      <created>1728677769300</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1728677769300</updated>
+    </task>
+    <task id="LOCAL-00016" summary="doing home work for lesson 5.1">
+      <option name="closed" value="true" />
+      <created>1728680103977</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1728680103977</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,6 +229,29 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first project initial commit" />
     <MESSAGE value="add text" />
-    <option name="LAST_COMMIT_MESSAGE" value="add text" />
+    <MESSAGE value="doing home work for lesson 2" />
+    <MESSAGE value="doing home work for lesson 3.2" />
+    <MESSAGE value="doing home work for lesson 3.3" />
+    <MESSAGE value="doing home work for lesson 4.1" />
+    <MESSAGE value="doing home work for lesson 4.3" />
+    <MESSAGE value="doing home work for lesson 5.2" />
+    <MESSAGE value="doing home work for lesson 5.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="doing home work for lesson 5.1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/hw_lesson3/hwl3_2.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/hw_lesson_4/hwl4_1.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
