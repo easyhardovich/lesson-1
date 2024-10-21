@@ -10,4 +10,5 @@ def common_elements():
     intersection_set = set(list_one).intersection(list_two)
     return intersection_set
 
+
 assert common_elements() == {0, 75, 45, 15, 90, 60, 30}
